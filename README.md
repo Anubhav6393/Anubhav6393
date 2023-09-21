@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on front end projects
 - 🤔 I’m looking for help with html and css
 - 📫 How to reach me: mishraanubhav8126@gmail.com
-- ⚡ Fun fact: I am homophobic.
+- ⚡ Fun fact: I once solved a tricky coding bug by dreaming about it!.
 
 
 
