@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning **Back end development**
+- 🌱 I’m currently learning **Web3**
 - 👯 I’m looking to collaborate on Full Stack Web projects
 - 🤔 I’m looking for help with Next.js and MongoDB
 - 📫 How to reach me: mishraanubhav8126@gmail.com
